@@ -26,8 +26,6 @@
 <img width="544" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/2095c1f3-f07f-4fda-98e5-6f8b6644a193">
 
 디렉토리가 아닌 파일을 입력하거나, 존재하지 않는 디렉토리를 입력하는 경우에는
-
 no such directory라는 오류문을 출력하며,
-
 두 개 이상의 파일 경로를 입력하는 경우에는 하나의 경로만 가능하다는 출력문을 확인할 수 있다.
 
