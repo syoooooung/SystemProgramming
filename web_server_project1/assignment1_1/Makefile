@@ -1,2 +1,2 @@
-simple_ls : 2021202057_simple_ls.c
+simple_ls : simple_ls.c
 	gcc -o $@ $^
