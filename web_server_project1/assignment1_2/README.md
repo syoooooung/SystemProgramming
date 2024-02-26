@@ -14,3 +14,54 @@ Assignement1_1에서 -a, -l, -la 옵션을 추가 구현한다.
 
 
 
+## 결과 화면
+<img width="365" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/29766d29-6cda-4fa3-8110-4eafdd8b3b65">
+
+
+옵션 -a를 입력으로 주었을 때, 히든 파일을 포함하여 정렬(히든파일은 .을 생략하고 정렬)된 후 출력된다.
+
+
+<img width="503" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/24b97ed4-7675-4341-a649-50952eb71a38">
+
+
+옵션 -l을 입력으로 주었을 때, directory path, total st_block과 각 요소들을 출력한다.
+
+
+<img width="518" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/4a773fa4-2a88-4d59-a6d7-0548339430d1">
+
+
+-al 은 각 요소를 히든파일을 포함해서 출력한다.
+
+
+<img width="515" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/23304251-1b18-4b47-9309-09a7393e8055">
+
+
+
+상대경로를 입력했을 때도 정상적으로 출력이 된다.
+
+
+<img width="508" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/3208f8d2-50c9-4d3d-a064-55ff6fff6547">
+
+
+여러 개의 경로를 입력하였고 두가지는 없는 경로, 하나는 존재하는 경로인데, 존재하지 않는다는 문구를 먼저 내보낸 후에 존재하는 경로에 대한 정보를 출력한다.
+
+
+<img width="473" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/011416c7-ed7f-4e04-bc0b-6f0bbe642faf">
+
+
+파일 입력시에도 출력이 된다.
+
+
+<img width="520" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/b2a29504-5bf5-4076-9217-505a68cf77a8">
+
+
+절대 경로 입력 시에도 정상 출력된다.
+
+
+<img width="511" alt="image" src="https://github.com/syoooooung/SystemProgramming/assets/110389611/c5d4ad5d-d80c-4378-a94b-44cabb2ce95e">
+
+
+경로를 여러 개 입력했을 땐, 순서대로 출력한다.
+
+
+
