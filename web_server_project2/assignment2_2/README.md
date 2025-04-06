@@ -25,9 +25,11 @@
 
 ./web_server가 실행되는 root path 에서는 -l 옵션의 결과가 출력된다. file name 클릭 시 해당하는 위치로 이동한다.
 
+
 <img width="396" alt="image" src="https://github.com/user-attachments/assets/0f8f2edd-8693-4e67-9164-ca425676f2e3" />
 
 하위 디렉토리 폴더로 이동하면 -al 옵션의 결과를 출력하고 상단에는 System Programming Http가 출력된다.
+
 
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/1f681056-b4ca-4e2d-9e86-5d20e44bfbdb" />
 실행파일을 클릭하면 download가 정상적으로 되며, open하면 알맞은 창이 나온다.
@@ -35,6 +37,7 @@
 
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/d5380327-1c18-45a5-bb16-d193b75b36d8" />
 text 파일 및 소스코드를 클릭하면 파일의 내용을 display한다.
+
 
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/d5a9a826-549d-4399-8775-e2058f264e64" />
 존재하지 않는 디렉토리의 url을 입력하면 not found 창이 뜬다.
