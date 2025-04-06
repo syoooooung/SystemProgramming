@@ -36,8 +36,9 @@
 
 
 <img width="393" alt="image" src="https://github.com/user-attachments/assets/d5380327-1c18-45a5-bb16-d193b75b36d8" />
-text 파일 및 소스코드를 클릭하면 파일의 내용을 display한다.
 
+text 파일 및 소스코드를 클릭하면 파일의 내용을 display한다.
+<br>
 
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/d5a9a826-549d-4399-8775-e2058f264e64" />
 존재하지 않는 디렉토리의 url을 입력하면 not found 창이 뜬다.
